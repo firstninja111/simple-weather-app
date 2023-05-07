@@ -1,5 +1,5 @@
 # Weather Forecast App
 
-Built with React. Uses OpenWeatherMap's API. Deployed via Netflify [here](https://alexkowsik-weather-app.netlify.com/).
+Built with React. Uses OpenWeatherMap's API.
 
-![screenshot of the app](https://raw.githubusercontent.com/alexkowsik/react-weather-app/master/src/images/screenshot.png "New York")
+![image](https://user-images.githubusercontent.com/50370522/236691091-6c2a9f57-acc4-49bb-8b10-c063ca48304f.png)
